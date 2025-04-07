@@ -1,2 +1,2 @@
-console.log('Hi From Node.js With Jenkins!');
+console.log('Hello!');
 
